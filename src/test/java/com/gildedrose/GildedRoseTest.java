@@ -9,7 +9,7 @@ class GildedRoseTest {
     void update_quality() {
 
         String[] names = {"foo", "Aged Brie", "Backstage passes to a TAFKAL80ETC concert", "Sulfuras, Hand of Ragnaros"};
-        Integer[] sellIn = {-1, 0, 11};
+        Integer[] sellIn = {-1, 0, 2, 5, 6, 11};
         Integer[] qualities = {0, 1, 49, 50};
 
         CombinationApprovals.verifyAllCombinations(
