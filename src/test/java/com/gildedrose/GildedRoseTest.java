@@ -8,7 +8,7 @@ class GildedRoseTest {
     @Test
     void update_quality() {
 
-        String[] names = {"foo", "Aged Brie", "Backstage passes to a TAFKAL80ETC concert", "Sulfuras, Hand of Ragnaros"};
+        String[] names = {"foo", "Aged Brie", "Backstage passes to a TAFKAL80ETC concert", "Sulfuras, Hand of Ragnaros", "Conjured"};
         Integer[] sellIn = {-1, 0, 2, 5, 6, 11};
         Integer[] qualities = {0, 1, 49, 50};
 
