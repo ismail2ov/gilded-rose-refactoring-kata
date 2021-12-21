@@ -12,6 +12,7 @@ repositories {
 }
 
 dependencies {
+    testImplementation 'com.approvaltests:approvaltests:12.4.1'
     testImplementation 'org.assertj:assertj-core:3.21.0'
     testImplementation 'org.mockito:mockito-core:4.1.0'
     testImplementation 'org.mockito:mockito-junit-jupiter:4.1.0'
